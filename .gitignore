@@ -1,0 +1,6 @@
+*.json
+quickstart.py
+__pycache__
+Tests
+runTests.py
+*.txt
